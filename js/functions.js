@@ -1,7 +1,7 @@
 /**
  * Description
- * @param {string} parola da verificare
- * @returns {boolean} Restituisce true se la parola è palindroma, false altrimenti.
+ * @param {string} 
+ * @returns {boolean}
  */
 function verificaPalindromo(parola) {
     let lunghezza = parola.length;
